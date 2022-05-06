@@ -1,0 +1,25 @@
+{
+  "name": "nanoredux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caodingpeng/NanoRedux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caodingpeng/NanoRedux/issues"
+  },
+  "homepage": "https://github.com/caodingpeng/NanoRedux#readme",
+  "dependencies": {
+    "react": "^18.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
